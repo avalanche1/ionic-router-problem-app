@@ -1,0 +1,7 @@
+{
+  "name": "Internet Billing App ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
